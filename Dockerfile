@@ -2,7 +2,6 @@ FROM debian
 MAINTAINER Danilo Ancilotto
 
 ENV DEBIAN_FRONTEND noninteractive
-ENV DOWNLOAD_URL=https://sourceforge.net/projects/firebird/files/firebird-linux-amd64/2.1.7-Release/FirebirdSS-2.1.7.18553-0.amd64.tar.gz
 
 RUN apt update && \
     apt upgrade -qy && \
