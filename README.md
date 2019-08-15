@@ -1,12 +1,12 @@
 # Docker Firebird SQL Database Server
 
-**Supported Tags**
+### Supported Tags
 * 2.1.7-ss
 
-**Server Architectures**
+### Container Architectures
 * SS - Super Server
 * CS - Classic Server
 * SC - Super Classic
 
-**DockerHub**
+### DockerHub
 * [daniloancilotto/firebird](https://hub.docker.com/r/daniloancilotto/firebird/)
