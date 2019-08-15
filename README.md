@@ -3,7 +3,7 @@
 ### Supported Tags
 * 2.1.7-ss
 
-### Container Architectures
+### Tag Architectures
 * SS - Super Server
 * CS - Classic Server
 * SC - Super Classic
